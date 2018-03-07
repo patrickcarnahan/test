@@ -1,3 +1,5 @@
+---
 text: Default Text
 ---
+steps:
 - script: echo {{ text }}
