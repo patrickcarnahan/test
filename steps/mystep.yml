@@ -2,4 +2,4 @@
 text: Default Text
 ---
 steps:
-- script: echo {{ text }}
+- script: echo ${{ text }}
