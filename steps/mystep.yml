@@ -1,5 +1,5 @@
----
-text: Default Text
----
+inputs: 
+  text: Default Text
+  
 steps:
 - script: echo ${{ text }}
