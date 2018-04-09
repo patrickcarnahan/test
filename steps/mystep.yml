@@ -2,4 +2,4 @@ parameters:
   text: echo this is the default
   
 steps:
-- script: ${{ text }}
+- script: ${{ parameters.text }}
