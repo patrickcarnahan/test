@@ -1,5 +1,5 @@
 parameters: 
-  text: Default Text
+  cmd: echo this is the default
   
 steps:
-- script: echo ${{ text }}
+- script: ${{ cmd }}
