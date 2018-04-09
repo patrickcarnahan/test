@@ -1,4 +1,4 @@
-inputs: 
+parameters: 
   text: Default Text
   
 steps:
